@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https ://github-profile-trophy.vercel.app/?username=gabrielmarcc" alt="gabrielmarcc" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [comentários interativos](https:// www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)
+- 🔭 Atualmente estou trabalhando em comentários interativos https:// www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9
 
 - 🌱 Atualmente estou aprendendo ** React JS, Typescript,API Rest**
 
