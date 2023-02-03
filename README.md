@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielmarcc" alt="gabrielmarcc" /></a> </p>
 
-- 🔭 I’m currently working on [Interactive comments](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)
+- 🔭 I’m currently working on: [Interactive comments](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)
 
-- 🌱 I’m currently learning **React JS, Typescript, API Rest**
+- 🌱 I’m currently learning: **React JS, Typescript, API Rest**
 
-- 🤝 I’m looking for help with **Open to work**
+- 🤝 I’m looking for help with: **Open to work**
 
-- 💬 Ask me about **HTML, JS, CSS, React JS, Node JS**
+- 💬 Ask me about: **HTML, JS, CSS, React JS, Node JS**
 
-- 📫 How to reach me **gabrielmarcelino099@gmail.com**
+- 📫 How to reach me: **gabrielmarcelino099@gmail.com**
 
-- ⚡ Fun fact **Playing games, watching anime.**
+- ⚡ Fun fact: **Playing games, watching anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
