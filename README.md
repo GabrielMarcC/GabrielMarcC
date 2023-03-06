@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielmarcc" alt="gabrielmarcc" /></a> </p>
 
-- 🔭 I’m currently working on: [Interactive comments](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)
 
 - 🌱 I’m currently learning: **React JS, Typescript, API Rest**
 
