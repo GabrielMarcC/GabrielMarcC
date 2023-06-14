@@ -1,9 +1,6 @@
 <h1 align="center">About me</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmarcc&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmarcc" /> </p>
 
-
-
-- 🌱 I’m currently learning: **React JS, Typescript, API Rest**
+- 🌱 I’m currently learning: **Next JS, Typescript, API Rest**
 
 - 🤝 I’m looking for help with: **Open to work**
 
