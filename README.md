@@ -1,7 +1,7 @@
 <h1 align="center">About me</h1>
 
 - 🌱 I’m currently learning: **Node JS, Express and API Rest development**
-- 
+  
 - 💬 Ask me about: **HTML, JS, CSS, React JS, Node JS**
 
 - 📫 How to reach me: **gabrielmarcelino099@gmail.com**
